@@ -1,6 +1,6 @@
 // Holds anything kiwi client specific (ie. front, gateway, _kiwi.plugs..)
 /**
-*   @namespace
+*   @namespace blah more comments
 */
 var _kiwi = {};
 
