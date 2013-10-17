@@ -1,6 +1,6 @@
 /**
  * DNS Blacklist support
- *
+ * blacklist
  * Check the client against a blacklist before connection to an IRC server
  */
 
